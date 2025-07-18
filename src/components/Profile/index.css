@@ -1,0 +1,9 @@
+.profile-con {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 300px;
+  height: 260px;
+}

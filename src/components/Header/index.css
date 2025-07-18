@@ -1,0 +1,34 @@
+.navbar-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  height: 10vh;
+  padding: 20px;
+}
+.header-logo {
+  align-self: center;
+  height: 60px;
+}
+.home-jobs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff;
+  font-size: 20px;
+}
+.logout-btn {
+  align-items: flex-end;
+  padding: 8px;
+  width: 8vw;
+  background-color: #6366f1;
+  border-radius: 6px;
+  border-style: solid opx;
+  border-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+}
+.home-text {
+  padding-right: 8px;
+}

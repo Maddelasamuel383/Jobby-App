@@ -1,0 +1,17 @@
+.searchinput {
+  display: flex;
+  flex-direction: row;
+}
+.searchbar {
+  width: 55%;
+  height: 32px;
+  background-color: #000000;
+  color: #ffffff;
+  border-width: 1px;
+  border-block-color: #ffffff;
+  border-radius: 4px;
+}
+.searchimg {
+  height: 24px;
+  cursor: pointer;
+}

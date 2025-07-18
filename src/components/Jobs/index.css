@@ -1,0 +1,35 @@
+.jobs-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: #ffffff;
+  background-color: #000000;
+  height: 100vh;
+}
+
+.jobs-page-specifications {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+.failureRetry {
+  color: #ffffff;
+  background-color: #4f46e5;
+  border-style: solid opx;
+  border-radius: 6px;
+  border-width: 0px;
+  cursor: pointer;
+  padding: 10px;
+  width: 120px;
+}
+.jobitems {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.search-con {
+  margin-top: 10px;
+}
+.failure-img {
+  height: 250px;
+}
